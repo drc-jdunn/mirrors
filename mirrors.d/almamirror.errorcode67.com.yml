@@ -1,0 +1,11 @@
+name: almamirror.errorcode67.com
+address:
+  https: https://almamirror.errorcode67.com/
+geolocation:
+  country: US
+  state_province: Tennessee
+  city: Hendersonville
+update_frequency: 3h
+sponsor: ErrorCode67
+sponsor_url: https://www.errorcode67.com/
+email: almamirror@errorcode67.com
